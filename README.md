@@ -77,6 +77,7 @@ Mobile-first y totalmente responsive para todos los dispositivos.
 ## 🔧 Scripts Disponibles
 
 ```bash
+npm install
 npm run dev      # Desarrollo
 npm run build    # Build para producción
 npm run preview  # Preview del build

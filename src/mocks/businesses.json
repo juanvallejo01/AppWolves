@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1",
+    "name": "La Pizzería de Don Pepe",
+    "description": "Las mejores pizzas artesanales de la ciudad.",
+    "category": "restaurantes",
+    "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuDLwyBnBmrWS4voSy28Cwr9mgvOE0RbgwRWtYW78acXQvSdKiPn2BN_c2I_EqfRBGbrDMvzpdxBeBRDJlcoOPM3Ae3nYLx5N5Do_bwAq6Y8FZtlLHN-QWGOFNdIYLkmfWV-Oxui1E-Ea8tyloU5cAw0-8PH9toiQ3Ma5gsuHaldCeFbtpYgNNWpy4cDyFRz4Docm1ha7cr8KJQTxzF8yVLEI20jESIRJMiLA_HLs7wdUMCBYpPDPfkCQojtGMm0Tt85UxAWcL1HW6w",
+    "rating": 4.5,
+    "phone": "+5491234567890",
+    "address": "Av. Principal 123",
+    "isOpen": true,
+    "hours": {
+      "open": "18:00",
+      "close": "23:00"
+    },
+    "isFeatured": true
+  },
+  {
+    "id": "2",
+    "name": "Súper Hamburguesas",
+    "description": "Hamburguesas gourmet y papas fritas caseras.",
+    "category": "restaurantes",
+    "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuCq7dB1NtHZf170EzEmdzImTFzQ8_cPfIALTenYuTfkBEaU3xRersXzt8xmVo2hLMhRPaEpyJC-QwmMUiLS6PlOe4gsMDzeRILANYdtnpHe475TzraAXfyg9QfaJzr_lfjoHXwNwCjyH9adygrmRrQxx_4JxOwgbMfYxcnESLatCOFzaSLra9Tty4SSSacYji89vSe6WqvjAJBniXCOs8KUXBql7ZFovUIAhTm5eATH0lBZKuLVTo2oRxqNgWAd0R8wsc6RNj3gBHg",
+    "rating": 4.0,
+    "phone": "+5491234567891",
+    "address": "Calle Secundaria 456",
+    "isOpen": false,
+    "hours": {
+      "open": "19:00",
+      "close": "01:00"
+    },
+    "isFeatured": true
+  },
+  {
+    "id": "3",
+    "name": "Sushi Palace",
+    "description": "Auténtico sushi japonés y rolls de autor.",
+    "category": "restaurantes",
+    "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuCn-V4I3_1fPj2IzIze_T1tXKn_JayCukHiRBYwirfLl6eoZdRkIHyDU68aF9qrOcCTGr7FD1u4weqrqfz3MZhPSrZ67G3q4pwjLG9kmz8xYmuOBBzrUY5hVCoqIa5mDhIOpz-f0g4rTFsqFRjM2Q9v5B4zVycMjqm8IDco0MYc5iZjFsboyseCSqNbvwUSasDtya06SBd9VqAOyr_SU7gTRS5bXDYB6qt_7EBoyREic0xGt7SxcxLNqHhIAw4wE6_7U64OUZpoceU",
+    "rating": null,
+    "phone": "+5491234567892",
+    "address": "Av. Libertador 789",
+    "isOpen": true,
+    "hours": {
+      "open": "19:30",
+      "close": "00:00"
+    },
+    "isFeatured": true
+  },
+  {
+    "id": "4",
+    "name": "Deportes Total",
+    "description": "Todo lo que necesitas para el deporte",
+    "category": "tienda-deportiva",
+    "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuDBAH48XYhjq2OI6TZf3y4MuX8Bgscm5aDfEoUeomJEORc18R8klCanrD8oOxW1R01A-KsuNzGg9i8DuJepfV8ew4ZnobpqC6bVYLmpeNpD1CM_4SdWiQBMlA601RXbRK-c_dvV79SaZA4zhoeugy-d8hNIFgwWejAwPzyT7SFWRb408rWhLmD3bki_xG-76q1A3utV1NaZQmfHjHny2RDRe_w4EN46Gp2iaRFm8i4MxfpbvZmf9LNDYSbFx9Dci4FSTUE1vtc2Gr4",
+    "rating": 4.8,
+    "phone": "+5491234567893",
+    "address": "Centro Comercial Local 12",
+    "isOpen": true,
+    "hours": {
+      "open": "09:00",
+      "close": "20:00"
+    },
+    "isFeatured": true
+  },
+  {
+    "id": "5",
+    "name": "La Parrilla",
+    "description": "Carnes a la parrilla y vinos seleccionados",
+    "category": "restaurantes",
+    "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuAk-C2u9T5GD5aVUVyap9dFMCF1iBghE2EWM0Dk2n3Gr9q1AgGAz81fc8aQFsgWIzN49ucXwadhsL77vAwC0dgX5geiLRQBVQm9TkydkaVbw_9n_NrQCY9HL5FWpENbLqyXga-y43ZLxJOFvQTkXk22ksA07OLjgjA3ek8BCvQE-M6jl4U2j4o_BIaonxdp7_zzkwl_-ZvoOxo7DjiRgU9pNZTJoKgOsNK1RasV_woRkfn7Ks-2z_ua_JR9BwlnMxixEoq-I8Bns7g",
+    "rating": 4.7,
+    "phone": "+5491234567894",
+    "address": "Ruta 9 Km 45",
+    "isOpen": true,
+    "hours": {
+      "open": "12:00",
+      "close": "23:30"
+    },
+    "isFeatured": true
+  },
+  {
+    "id": "6",
+    "name": "Barbería El 10",
+    "description": "Cortes modernos y clásicos",
+    "category": "servicios",
+    "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuCDwQBUc5Qz6tfTlTAl8nY2ZN9JYGVj8Pd1RSaMH9s6feSnw2DpessLb_Kpo1RqPNdTxedWm-kf-R1k2FstCJzHU7L8Gg9jeas4fUHR_He-PrFmain0TH-5bmqTWvtcD4wUm0qHdysZBSZUS0tvRV6OhKLOwVKP-826_oqH-lPuQO42XNFFTMn_2BptpPchopF1RRNoEvGPJpiCM1Ulbp4fHVlIcyHbC_42SLpj968T-hJRPpX-EorDhgdCjpCzbSggxAULlblu15U",
+    "rating": 4.9,
+    "phone": "+5491234567895",
+    "address": "Calle 10 N° 234",
+    "isOpen": true,
+    "hours": {
+      "open": "10:00",
+      "close": "19:00"
+    },
+    "isFeatured": true
+  },
+  {
+    "id": "7",
+    "name": "Gym Fuerte",
+    "description": "Gimnasio completo con entrenadores certificados",
+    "category": "salud",
+    "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuDFRIAJ5xpvoDA4jeo1ax-XdJs-lfeVT2Ne_ayzH5cxwJHrtGgmqLnBi-sW1of3gIlmye6TRQgCHhkrRiWcfUCXJZp2ktqEENRRe0XG88TDgqLRArrLOaGkzvCYU-34FuMzkUNNKG7RtvRaT7IXvjHxB8n_PEICgML83cGfqykF5-y4dyrTkGCl2zQR6cHIYCe6FxnbiLvIoFyK0jfQQoraWkdAmR8EA6BNUB5A1-LhMUqlAK7BKgvkt3SO5AYDiIG1oOtvhUpO3Gs",
+    "rating": 4.6,
+    "phone": "+5491234567896",
+    "address": "Av. Fitness 567",
+    "isOpen": true,
+    "hours": {
+      "open": "06:00",
+      "close": "22:00"
+    },
+    "isFeatured": true
+  }
+]

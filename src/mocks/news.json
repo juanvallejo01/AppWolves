@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "¡Gran victoria del equipo en casa!",
+    "description": "Un resumen del emocionante partido del fin de semana.",
+    "content": "El CDG LOBOS consiguió una importante victoria en el estadio municipal con un marcador de 3-1. Los goles fueron anotados por Martínez (2) y Gómez (1). El equipo demostró un gran nivel de juego colectivo y mantuvo el dominio del partido durante los 90 minutos.",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuA1-lTs27zUZrv8o9MwGc0k5pEfTMahcRaolyi6OZKsaG25ga_GxIc-slykWF-h3B1lfpYBU925rfueU9NUvpTG0BBbFGPgvq2jP7lzdQB_O-c-_p67PGQMi2DI9VLAcQAoiseNi0g-dewkvP4ke_O6sOGZgmCWxjWoO3dkr2H7YZnzs0svdXqY1sAaKFTBeiDiYSG48xadsL1rGywpryI1EJdbJmFLKbwjI2SdHInSiBdF5qRj9yI3v0wWnnYqyG-wVipbQUQyJK8",
+    "category": "Resultados",
+    "isPinned": false,
+    "isNew": false,
+    "createdAt": "2025-10-29T14:30:00Z",
+    "author": "Redacción CDG LOBOS"
+  },
+  {
+    "id": "2",
+    "title": "Nuevo fichaje para la delantera",
+    "description": "Conoce al nuevo integrante que se suma al plantel.",
+    "content": "El club anuncia la incorporación de Juan Pérez, delantero de 24 años proveniente del Club Atlético Rival. Juan llega para reforzar la delantera y aportar su experiencia en torneos nacionales.",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAmtZb4FTTsp5EgIvjYSlDD7OVW0_ItnOJ0s5pteVMOCNtxlccIX6R4mg1LLPyXyS7zZkNxIyUOSL12UUpQFFgjml3wFLm6VHDm9jtZ0Z6iSPo-QE9KzQPxrrrARnrAztcnuvdmhkaLZ1JIb0JranZAVx9VA2X6Ed0C7fmKe3t973Kt-ib-82KJ6_48j0f3B0S9HhUB_auWkyjG0PSlIELXULsPh3oyBCczxm_BLsqHgdyVYEfKq3mRFXlDeVMGULXmkTagJ_06PZg",
+    "category": "Fichajes",
+    "isPinned": false,
+    "isNew": true,
+    "createdAt": "2025-10-30T10:00:00Z",
+    "author": "Redacción CDG LOBOS"
+  },
+  {
+    "id": "3",
+    "title": "Festival de Halloween en el Club",
+    "description": "¡Prepárate para una noche de sustos y diversión! Únete a nosotros para nuestro festival anual de Halloween.",
+    "content": "Este sábado 31 de octubre realizaremos nuestro festival anual de Halloween en las instalaciones del club. Habrá actividades para toda la familia, concursos de disfraces, juegos y mucha diversión. ¡No te lo pierdas!",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCoIgOLqO0x8bemU7NE148qIwByFFtU6rifM1OPuqdEPZnRQ28yG5UWbuN89LnJXw06v-aUMHoC1EqFODmyVnF0Xdn3yW5PdobqXon-HmK3c-VUmg2MCT04etsbdv5-xC30YD7AyEEbI3qUqNO-CZfLi6Ybvwidnz2nHaNLlp6WLjUxOSja1OXoGRfvFEJ8suQXEO08fyOCC1eKOF2Ma7Gai6gDOKJ-Sn-BwyGDK-L1irM-cZg0wib76VAFKiA9ERnAX6cHiRsXQBw",
+    "category": "Eventos",
+    "isPinned": false,
+    "isNew": true,
+    "createdAt": "2025-10-31T08:00:00Z",
+    "author": "Área de Eventos"
+  },
+  {
+    "id": "4",
+    "title": "Información Importante: Cuotas 2024",
+    "description": "Un breve resumen sobre las nuevas cuotas de membresía para el próximo año. Asegúrate de revisarlas.",
+    "content": "Informamos a todos los socios que las cuotas de membresía para el año 2024 han sido actualizadas. Se mantienen los beneficios actuales y se añaden nuevos descuentos en emprendimientos aliados. Para más información, contactar con administración.",
+    "image": null,
+    "category": "Club",
+    "isPinned": true,
+    "isNew": false,
+    "createdAt": "2025-10-27T09:00:00Z",
+    "author": "Administración"
+  },
+  {
+    "id": "5",
+    "title": "Entreno cancelado por mal clima",
+    "description": "Debido a las fuertes lluvias, el entrenamiento de hoy ha sido cancelado. Pronto informaremos sobre la reprogramación.",
+    "content": "Debido a las condiciones climáticas adversas y el estado del campo de juego, se ha decidido cancelar el entrenamiento programado para hoy. Estaremos informando la nueva fecha en las próximas horas.",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAE63BxBXAk1XO8cmg7kPig0UT2fhBvKyOLdPFViuFfSpMNKJLhkKep7M2YXaTasuoyxqLQQOZKZIMEz_DlP3j1K7wE_1qSaNjirbEN1e5G4EVv0fwumoYX4hHweYe7ZvGtfilHFmnYK85GZoodW89ANE-P8vNBhArZWHTJqgYEHKO456yzaGXzNcJU9zp3puXnp9OQaGdm5w3R1tE2sg1qcFb4cIPZSZKduGDVdPpWyQeiFqRgLlOgIjR_IdPrInQW3aw2mmDoyO8",
+    "category": "Entrenamientos",
+    "isPinned": false,
+    "isNew": false,
+    "createdAt": "2025-10-31T07:00:00Z",
+    "author": "Cuerpo Técnico"
+  }
+]

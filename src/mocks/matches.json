@@ -1,0 +1,71 @@
+[
+  {
+    "id": "1",
+    "homeTeam": {
+      "id": "lobos",
+      "name": "CDG LOBOS",
+      "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuB-DhD8x5D5GUUsponoa6F_X4oLxpoN2_PALUA6XoEuetBgWDMzG_QEHmTF6LgKh7gWanUEH7gnyYYrI_rJQV5eBtQF3d5g1txsO04SSM_gAUY3d0zzYtvnjIPQkHb4JPf1zxBYOXGA0Q__pmn4B0xWLyAOxU-5sgAUFyzpbJYvP6eYJ8DEF9sr42uJ0CPvI2EMxL7MvrlCmMt3ioJrILfLon01Hl_LtjGfkoshMDZgec0_dgLVvOq6esuu54Q18-nhZ-WIdR73kHU"
+    },
+    "awayTeam": {
+      "id": "rival-fc",
+      "name": "Rival FC",
+      "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuBMjD4RF-daR1N3YNxTcOAUdUA6ZY4jsecln0KfwE6wx6_QnTSV-rJ2V0XNDQCUafueU04ufbG4HCkkul7qzGKkn8G4yuCw53Vw7AEMdoJ7r0wKS2gcbx8LnsaMnLHFgh59R_PitccyJEL6KgAR06oV9uFQfBDCFg7tPShxcgi8G_O187HNiIHAi84YcdXFSL8SSKOss8Jcvi08xmPK0o6sPxGD0iV5H8MtXhqPHojPU0dkkLBkPC0Ulp4a9fX6EIL2HlhrJ4mgUk4"
+    },
+    "date": "2025-11-02",
+    "time": "15:00",
+    "location": "Estadio Municipal",
+    "address": "Av. Siempre Viva 742",
+    "tournament": "Torneo Apertura",
+    "round": "Fecha 5",
+    "category": "primera",
+    "status": "upcoming",
+    "hasCallup": true,
+    "stadiumImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuDCNjFTejk_kC8xZOCC2AFPG2o8Jy7L0GbCLvpB4TKW76hBPVGpTstA6dDLVWaPsRHunjUg7voO3JIhprwOnigK7rc0suU8O7iROWKPGCkBElM71Pp5QMXxY5pQT5RFBvTbHKPYovTIwBjB2IZbJ6MVUU_RlW1yBB56ytyEB2wvcwTgIKPmnps4QNdYdK3gI-A5wRpLnMoKyZcs9eF68piO0nvVOMuNC_EKA-PNZR2J1ep7TF8C7VJNPkcr6WIC7KdetquRf4GqjMI"
+  },
+  {
+    "id": "2",
+    "homeTeam": {
+      "id": "lobos",
+      "name": "CDG LOBOS",
+      "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuA8YgL08OhIfv-gWQZa7MUP14U1A3weEWbPw2Iqc_cqFRd2Ca8DbmVlDY_DtjTgAC20ekIGCqPnHFRMSpFWDPUB-t6287Gz45U2vADBsXv1w3h9RCMl35VZa_DkRAoMmu1ZLHumjpNZuIU-fFarVUsXfH0KjB0Ae3Po8-c6mT2A5ZfBWft4g55KpFVJ2997MiebVQNG7abCr0WCV0guH2DP6uW2tIG2hZxfeHI5qFYWLHHoFvx7MJ5xJ8DkC59ZxTAyopZm98_DQM0"
+    },
+    "awayTeam": {
+      "id": "otro-equipo",
+      "name": "Otro Equipo",
+      "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuCuWWVxdLzC43y63ueqKS1XppQpx2ziTEYQA_QCilLPGsDyHZX3vvXQ_MzvfNlhmkTsXJkl1Xbz5HeuZYIOegO6AG5o-sG9mm82Tqc6EyyjVswLvjECv0rVKbhEF14XBvhJn6DopZJ2vSETBiXCLw-ZTghryeDTnUY883SrDvqwzajXyJJsk0In2cJ8tjQsivoE7UHncA0bjpSQKpCu9SPLgp3v2DSkhLV4n9uqRQcaq_552vA7Ge2rHycx-umKo3BYpXa3xBLvHxg"
+    },
+    "date": "2025-11-06",
+    "time": "20:00",
+    "location": "Visitante",
+    "address": "Calle 123, Ciudad",
+    "tournament": "Torneo Apertura",
+    "round": "Fecha 6",
+    "category": "primera",
+    "status": "upcoming",
+    "hasCallup": true,
+    "stadiumImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuCCYDgVBLzIs6vEgT89OUFDKeMOt0r6OQr7h86derhhXfVRXil4YcCszpADFZFxIkaC4wd_vA0rG8izUOp2JKaI8XTCUh1vxA1oMtC0vnEQiHMDYPvJVCOtOTpwOOTw6m-CcW2K3FGD1Bg_Ei6tDoYAeXuf7iYI4VTp34cYo9X2BheoUVzcuH5N2qJT-4UNqQ0abSDCSLxWnAxiyVM8sBnl_J2KskkZnUL9KeVPlLORZUFNmQLGm1FI2yfxW8OnVIa0w0Fsef_--i4"
+  },
+  {
+    "id": "3",
+    "homeTeam": {
+      "id": "lobos",
+      "name": "CDG LOBOS",
+      "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuCoQjrVv9w9OA4jA3igGlwvF_MF2IWiLMvgNOxYo3_lUU7Z8wE50l_wlwNUivon2cTt_p-QvOnH1NezF8yv2URjWcp2rD4yIL87bQMkgGP0NvfpajAgTHO_gsSqMwuESOWqj2E6rrMCFL0KVpqZuaxZo6-3UKt9BomtjUCVIzyim2QCjRIMjXdj0Y_MKifJqW1ne1e3QGFqt1MwrbD_wdZsgaNIrZiWpkZA2zuOSm02s8wcMjIcJ1CKXrOUY1x58sEZpLtqs6QRruk"
+    },
+    "awayTeam": {
+      "id": "rival-team",
+      "name": "Rival Team",
+      "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuD4y65MaRAXDfnh_O_EGS-tIZ482x6X90GfdIjtu_PJyaUMpLZGlRMjNcVV2vXM33CFKVsCEGIVxN9UwgGNbmnF9nwHv2RC5W7g0ufSntS_T0DS1TDPlmM7QUYiUPk-vr53VIIX8UIeDeck9fL-FORAwcvY5TQXt6R8f3ve7kDOXDoyVtKw3WSFEGDpC4xRc6JDCzj7rhXgTx_G4zDSW56324J8DhRgbSHLZyXtlS1sljeT0FPWuXWzt-nto2xMblE8JkLC9aNugn4"
+    },
+    "date": "2025-11-09",
+    "time": "16:00",
+    "location": "Estadio Municipal",
+    "address": "Av. Siempre Viva 742",
+    "tournament": "Torneo Apertura",
+    "round": "Fecha 5",
+    "category": "2011-2012",
+    "status": "upcoming",
+    "hasCallup": false,
+    "stadiumImage": null
+  }
+]

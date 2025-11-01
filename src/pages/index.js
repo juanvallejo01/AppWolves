@@ -1,0 +1,5 @@
+export { default as MatchDetailPage } from './SchedulePage'
+export { default as BusinessesPage } from './SchedulePage'
+export { default as BusinessCategoryPage } from './SchedulePage'
+export { default as BusinessDetailPage } from './SchedulePage'
+export { default as ProfilePage } from './SchedulePage'
